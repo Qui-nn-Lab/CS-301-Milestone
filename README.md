@@ -25,7 +25,7 @@ Currently, the primary source of information regarding this research is the Proj
 Who maintains and contributes to the project?
 
 This project is maintained and was developed by:
-Anthony Korsak
-Cesar Feijoo
-Santiago Hoyos
+Anthony Korsak,
+Cesar Feijoo,
+Santiago Hoyos,
 Mateo Zapata
