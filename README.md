@@ -2,10 +2,8 @@
 # Urban Neglect and Public Safety in NYC Housing
 
 What the project does?
-This research project investigates the relationship between the quality of housing, the rate of violent crimes, and the socioeconomic makeup of various New York City communities
-. Specifically, the project analyzes whether a high number of housing maintenance code violations in public housing developments (NYCHA) correlates with high rates of violent crimes (reported to the NYPD), while controlling for the income levels of residents within those same communities
-. The project aims to test the hypothesis that neglect of housing infrastructure is a predictor of community violence, independent of resident income
-.
+This research project investigates the relationship between the quality of housing, the rate of violent crimes, and the socioeconomic makeup of various New York City communities. Specifically, the project analyzes whether a high number of housing maintenance code violations in public housing developments (NYCHA) correlates with high rates of violent crimes (reported to the NYPD), while controlling for the income levels of residents within those same communities. The project aims to test the hypothesis that neglect of housing infrastructure is a predictor of community violence, independent of resident income.
+
 Why the project is useful?
 The project provides critical insights into urban inequality and public safety
 . By exploring the "broken windows" theory, the research seeks to determine if the neglect of physical infrastructure directly impacts community safety
