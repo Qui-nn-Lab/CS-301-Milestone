@@ -13,8 +13,6 @@ How users can get started with the project?
 
 To replicate or build upon this research, users can begin by accessing the primary datasets utilized in this study:
 
-NYPD Complaint Data (Historic): Comprehensive crime reports from the city.
-
 NYPD Shootings (2006–Present): Data focused on gun violence incidents.
 
 NYCHA Housing Maintenance Code Violations: Records of housing infrastructure neglect.
