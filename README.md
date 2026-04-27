@@ -12,10 +12,15 @@ The project provides critical insights into urban inequality and public safety. 
 How users can get started with the project?
 
 To replicate or build upon this research, users can begin by accessing the primary datasets utilized in this study:
+
 NYPD Complaint Data (Historic): Comprehensive crime reports from the city.
+
 NYPD Shootings (2006–Present): Data focused on gun violence incidents.
+
 NYCHA Housing Maintenance Code Violations: Records of housing infrastructure neglect.
+
 US Household Income Stats (Geo-Located): Socioeconomic data used to control for income levels.
+
 Users should focus their analysis on the intersection of these datasets to evaluate the relationship between maintenance issues and crime rates.
 
 Where users can get help with your project?
