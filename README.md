@@ -11,7 +11,7 @@ The project provides critical insights into urban inequality and public safety. 
 
 How users can get started with the project?
 
-To replicate or build upon this research, users can begin by accessing the primary datasets utilized in this study:
+To replicate or build upon this research, users can begin by accessing the primary (CVS files provided) datasets utilized in this study:
 
 NYPD Shootings (2006–Present): Data focused on gun violence incidents.
 
